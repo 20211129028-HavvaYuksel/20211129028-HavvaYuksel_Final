@@ -1,0 +1,29 @@
+<div class="container" *ngIf="kat">
+  <h1>{{kat.KategoriAdi}} Kategorisi Haberleri</h1>
+
+  <h3 style="color: red !important;" *ngIf="haberler?.length == 0">Henüz Bu Kategoriye Haber Eklenmedi!</h3>
+  <div>
+    <div class="news-content">
+      <div *ngFor="let haber of haberler">
+        <div class="news-box">
+          <div class="news-img">
+            <img mat-card-image [src]="haber.FotoUrl" alt="Photo of a Shiba Inu">
+          </div>
+          <div class="card">
+            <h2 class="card-title">{{haber.Baslik}}</h2>
+            <p class="card-info">
+              <b>Kategori</b> {{haber.KategoriAdi}} &nbsp;&nbsp;
+              <b>Tarih</b> {{haber.Tarih | date:'dd/MM/YYYY'}} &nbsp;&nbsp;
+              <b>Yazan</b>
+              <a class="author-link" href="#" [routerLink]="['/uyehaber',haber.UyeId]">{{haber.UyeKadi}}</a>
+              &nbsp;&nbsp;
+
+            </p>
+            <a class="read-link" href="#" [routerLink]="['/haber',haber.HaberId]">Haber Oku</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>

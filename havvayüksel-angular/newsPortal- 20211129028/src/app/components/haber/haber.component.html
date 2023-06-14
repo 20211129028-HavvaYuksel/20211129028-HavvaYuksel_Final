@@ -1,0 +1,33 @@
+<div class="haber-detay ">
+
+  <div class="container" *ngIf="haber">
+    <div class="new-detail-img">
+      <img [src]="haber.FotoUrl" alt="" style="width: 100%; height: 300px; object-fit: cover;">
+    </div>
+    <h1>{{haber.Baslik}}</h1>
+    <b>Kategori : </b> {{haber.KategoriAdi}} &nbsp;&nbsp;
+    <b>Tarih : </b> {{haber.Tarih | date:'dd.MM.yyyy HH:mm:ss'}} &nbsp;&nbsp;
+    <b>Yazan : </b> {{haber.UyeKadi}} &nbsp;&nbsp;
+    <hr>
+    <div [innerHTML]="haber.Icerik | safeHtml"></div>
+    <hr>
+    <p>Bu Haber {{haber.Okunma}} Kez Okundu.</p>
+
+    <h1>Yorumlar</h1>
+    <div *ngFor="let yorum of yorumlar">
+      <p>{{yorum.YorumIcerik}}</p>
+      <b>Tarih : </b> {{yorum.Tarih | date:'dd.MM.yyyy HH:mm:ss'}} &nbsp;&nbsp;
+      <b>Yazan : </b> {{yorum.KullaniciAdi}} &nbsp;&nbsp;
+      <hr>
+    </div>
+    <h3 style="color:red" *ngIf="!apiServis.oturumKontrol()">Yorum Yapabilmek İçin <a href="#"
+        [routerLink]="['/login']">Oturum Açınız</a></h3>
+    <div *ngIf="apiServis.oturumKontrol()">
+      <mat-form-field appearance="outline">
+        <mat-label>Yorumunuz</mat-label>
+        <textarea matInput placeholder="Yorumunuz" #yorumMetni></textarea>
+      </mat-form-field>
+      <button mat-raised-button color="primary" (click)="YorumEkle(yorumMetni.value)">Yorum Ekle</button>
+    </div>
+  </div>
+</div>
