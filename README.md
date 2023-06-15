@@ -14,9 +14,15 @@
 ### 20211129028-HavvaYuksel
 
 ### Yetkiler
-- Admin [Haber ekleme, güncelleme, silme, yorum ekleme, güncelleme, silme]
+- Admin 
+    * [Haber ekleme, güncelleme, silme]
+    * [Kategori ekleme, güncelleme, silme]
+    * [Yorum görüntüleme, yorum yapma]
+    * [Üye ekleme, güncelleme, silme]
 
-- Kullanıcı [Haberleri görüntüleme, yorum görüntüleme]
+- Üye Kullanıcı [Haberleri görüntüleme, yorum görüntüleme, yorum yapma]
+
+- Genel Kullanıcı [Haberleri görüntüleme]
 
 ## Tablo Modeli
 
@@ -83,7 +89,6 @@
 ## Üzerinde Haber Kayıtlı Olmayan Kategori Sayfası
 
 ![screencapture-localhost-4200-kategori-11-2023-06-14-19_56_25](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/20430bdc-c1cc-45d0-ac6d-68b3c139facd)
-
 
 
 
