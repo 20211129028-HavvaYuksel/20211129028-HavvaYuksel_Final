@@ -37,6 +37,9 @@
 
 ![screencapture-localhost-4200-login-2023-06-14-19_53_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/77cf4aee-2f83-4412-8668-3c0ff1ea9371)
 
+![screencapture-localhost-4200-login-2023-06-14-19_48_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/027bdbcd-4da7-4c5e-bf03-00630a83fabe)
+
+
 ![screencapture-localhost-4200-login-2023-06-14-19_48_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/8671ce2b-5d4c-46eb-a5a2-e0d2955729e7)
 
 ## Anasayfa Genel
