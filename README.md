@@ -35,63 +35,60 @@
 
 ## Login Üye+Admin
 
-![screencapture-localhost-4200-login-2023-06-14-19_53_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/77cf4aee-2f83-4412-8668-3c0ff1ea9371)
-
 ![screencapture-localhost-4200-login-2023-06-14-19_48_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/027bdbcd-4da7-4c5e-bf03-00630a83fabe)
 
-
-![screencapture-localhost-4200-login-2023-06-14-19_48_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/8671ce2b-5d4c-46eb-a5a2-e0d2955729e7)
+![screencapture-localhost-4200-login-2023-06-14-19_53_51](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/cc035676-15ab-425e-92e4-094250cdaf43)
 
 ## Anasayfa Genel
 
-![screencapture-localhost-4200-2023-06-14-19_47_41](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/fde29dbc-449d-48c3-92ff-0b7753605d16)
+![screencapture-localhost-4200-2023-06-14-19_47_41](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/c2c18557-f897-497b-8194-8208e5deb07a)
 
 ## Anasayfa Üye Kullanıcı
 
-![screencapture-localhost-4200-2023-06-14-19_54_00](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/660df399-8569-4a63-b43c-e54de5b27d66)
+![screencapture-localhost-4200-2023-06-14-19_54_00](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/313e1d85-4e1d-496b-a505-e115f4e8e77a)
 
 ## Anasayfa Admin Kullanıcı
 
-![screencapture-localhost-4200-2023-06-14-19_49_40](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/3e78195a-f7d0-4b52-ab48-71cd04390498)
+![screencapture-localhost-4200-2023-06-14-19_49_40](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/8a998b55-d751-43c0-a4e3-533643cd9c8c)
 
 ## Kategoriye Ait Haberler Sayfası
 
-![screencapture-localhost-4200-kategori-1-2023-06-14-19_48_34](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/bb8027da-434a-4d92-85bb-0ca92fed557f)
+![screencapture-localhost-4200-kategori-1-2023-06-14-19_48_34](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/550e4b76-da3f-4bb8-9f52-e771e1ffa4d4)
 
 ## Haber Detay Genel
 
-![screencapture-localhost-4200-haber-28-2023-06-14-19_48_19](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/3e4622a3-bc17-456d-90b7-6f0ecf8f427d)
+![screencapture-localhost-4200-haber-28-2023-06-14-19_48_19](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/2aa2850c-b3f5-40ba-81b0-523e3311d499)
 
 
 ## Haber Detay Kullanıcı
 
-![screencapture-localhost-4200-haber-28-2023-06-14-19_49_57](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/0ca2c616-2774-44ff-be4e-afaf422aa48c)
+![screencapture-localhost-4200-haber-28-2023-06-14-19_49_57](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/bd4f72ac-57b8-4e85-aad3-7ed5079c04a9)
 
 
 ## Admin Kategoriler Sayfası ( Ekle, HaberListele, Düzenle, Sil)
 
-![screencapture-localhost-4200-admin-kategori-2023-06-14-19_50_11](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/3d3966ae-2241-4f8f-bce1-a764ea66347f)
+![screencapture-localhost-4200-admin-kategori-2023-06-14-19_50_11](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/89cd8fff-98dd-4e41-86d6-e03209a574b4)
 
 ## Admin Haberler Sayfası ( Ekle, KategoriSeç, KategoriListele, Düzenle, Sil)
 
-![screencapture-localhost-4200-admin-haber-2023-06-14-19_53_07](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/76bf3ced-db9a-4550-8d4f-730cce6c70da)
+![screencapture-localhost-4200-admin-haber-2023-06-14-19_53_07](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/1bc954c7-aba1-4ba9-86ba-5ab52423b3b5)
 
 
 ## Admin Üyeler Sayfası ( Ekle, Düzenle, Sil)
 
-![screencapture-localhost-4200-admin-uye-2023-06-14-19_53_26](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/64750907-0c71-483e-8ad2-086311275150)
+![screencapture-localhost-4200-admin-uye-2023-06-14-19_53_26](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/7539ce75-3ed7-4f7e-8e75-fe9baf0835bf)
 
 ## Kullanıcıya Ait Haberler Sayfası
 
-![screencapture-localhost-4200-uyehaber-1-2023-06-14-20_27_22](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/77084193-cf56-4075-ad5e-9580308cf181)
+![screencapture-localhost-4200-uyehaber-1-2023-06-14-20_27_22](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/0e7b5bdf-de03-4306-9837-152803542054)
 
-![screencapture-localhost-4200-uyehaber-2-2023-06-14-20_27_05](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/307956cb-d677-4b60-9dd5-5e955ea31734)
+![screencapture-localhost-4200-uyehaber-2-2023-06-14-20_27_05](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/4f381ee8-1f93-4ae3-a7f5-be4621f73773)
 
-![screencapture-localhost-4200-uyehaber-3-2023-06-14-20_27_35](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/cd694c79-6e02-44fd-a998-bc9e5f5dd3ca)
+![screencapture-localhost-4200-uyehaber-3-2023-06-14-20_27_35](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/9d2c138f-056b-4cda-b7c7-c370ac73e55c)
 
 ## Üzerinde Haber Kayıtlı Olmayan Kategori Sayfası
 
-![screencapture-localhost-4200-kategori-11-2023-06-14-19_56_25](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/20430bdc-c1cc-45d0-ac6d-68b3c139facd)
+![screencapture-localhost-4200-kategori-11-2023-06-14-19_56_25](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/2fcaabcb-1ad1-48d5-aa3c-9562e090a46f)
 
 
 
