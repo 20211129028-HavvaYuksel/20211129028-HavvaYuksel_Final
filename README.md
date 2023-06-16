@@ -69,7 +69,7 @@
 
 ![screencapture-localhost-4200-admin-kategori-2023-06-14-19_50_11](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/89cd8fff-98dd-4e41-86d6-e03209a574b4)
 
-## Admin Haberler Sayfası ( Ekle, KategoriSeç, KategoriListele, Düzenle, Sil)
+## Admin Haberler Sayfası ( Ekle, KategoriSeç, HaberÖnİzle, Düzenle, Sil)
 
 ![screencapture-localhost-4200-admin-haber-2023-06-14-19_53_07](https://github.com/20211129028-HavvaYuksel/20211129028-HavvaYuksel_Final/assets/122538510/1bc954c7-aba1-4ba9-86ba-5ab52423b3b5)
 
